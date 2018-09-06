@@ -2,7 +2,7 @@
 	"name": "Theme-Ascetic-Plus",
 	"displayName": "Ascetic Plus Theme",
 	"description": "Ascetic Plus Theme ported from the Ascetic Theme",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "Metacode",
 	"engines": {
 		"vscode": "^0.10.1"
@@ -11,10 +11,10 @@
 		"Themes"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/wiktor-k/Ascetic-Plus",
+	"homepage": "https://github.com/MetacodeBiz/Ascetic-Plus",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/wiktor-k/Ascetic-Plus"
+		"url": "https://github.com/MetacodeBiz/Ascetic-Plus"
 	},
 	"contributes": {
 		"themes": [
